@@ -1,0 +1,51 @@
+.to-gray-800\/90 {
+    --tw-gradient-to: #0c446e var(--tw-gradient-to-position) !important;
+}
+.bg-gray-800\/50 {
+    background-color: #0c446e var(--tw-gradient-to-position)!important;
+}
+.to-red-500 {
+    --tw-gradient-to: #8c1c35  var(--tw-gradient-to-position) !important;
+}
+.from-teal-500 {
+    --tw-gradient-from: #0c446e var(--tw-gradient-from-position) !important;
+}
+.to-gray-800 {
+    --tw-gradient-to: #8c1c35  var(--tw-gradient-to-position) !important;
+}
+.from-gray-800 {
+    --tw-gradient-from: #0C446E var(--tw-gradient-from-position) !important;
+}
+.text-teal-400 {
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255) !important;
+}
+button.inline-flex.items-center.justify-center.gap-2.whitespace-nowrap.text-sm.font-medium.ring-offset-background.transition-colors.focus-visible\:outline-none.focus-visible\:ring-2.focus-visible\:ring-ring.focus-visible\:ring-offset-2.disabled\:pointer-events-none.disabled\:opacity-50.\[\&_svg\]\:pointer-events-none.\[\&_svg\]\:size-4.\[\&_svg\]\:shrink-0.bg-primary.h-10.p-2.text-gray-600.hover\:text-gray-800.hover\:bg-gray-100.rounded-lg {
+    background: #d7d7d7 !important;
+    padding: 0px 12px !important;
+}
+button.inline-flex.items-center.justify-center.gap-2.whitespace-nowrap.font-medium.ring-offset-background.transition-colors.focus-visible\:outline-none.focus-visible\:ring-2.focus-visible\:ring-ring.focus-visible\:ring-offset-2.disabled\:pointer-events-none.disabled\:opacity-50.\[\&_svg\]\:pointer-events-none.\[\&_svg\]\:size-4.\[\&_svg\]\:shrink-0.bg-primary.h-10.text-gray-500.hover\:text-gray-700.text-xs.px-2.py-1.hover\:bg-gray-100.rounded {
+    background: #d7d7d7 !important;
+}
+.bg-primary {
+    background-color: hsl(0deg 0% 92.91%)  !important;
+}
+.hover\:bg-primary\/90:hover {
+    background-color: hsl(0deg 0% 79.53% / 90%) !important;
+}
+span.text-sm.bg-gradient-to-r.from-teal-400.to-red-400.bg-clip-text.text-transparent.font-medium {
+    color: #000 !important;
+}
+span.text-teal-400.hover\:text-teal-300.transition-colors{
+color: #000 !important;
+}
+.focus\:bg-accent:focus {
+    background-color: hsl(var(--accent));
+    color: #000 !important;
+}
+.from-gray-900\/90 {
+    --tw-gradient-from: #0c446e var(--tw-gradient-from-position) !important;
+}
+.items-center.justify-center.rounded-md.grid.w-fit.grid-cols-2.backdrop-blur-xl.border.border-white\/10.p-1.mb-6.h-16.bg-black.text-white {
+    gap: 10px !important;
+}
